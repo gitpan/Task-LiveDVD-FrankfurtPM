@@ -1,0 +1,9 @@
+LICENSE
+MANIFEST
+META.yml
+Makefile.PL
+README
+dist.ini
+lib/Task/LiveDVD/FrankfurtPM.pm
+scripts/create_pod.pl
+scripts/fetch_module_names.pl
