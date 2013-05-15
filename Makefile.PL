@@ -236,12 +236,11 @@ my %WriteMakefileArgs = (
     "Task::Kensho::WebCrawling" => "0.28",
     "Task::Kensho::WebDev" => "0.29",
     "Task::Kensho::XML" => "0.28",
-    "Task::Padre::Plugins" => "0.26",
     "XML::Parser::REX" => "1.01",
     "mojolicious::lexicon" => "0.9922",
     "mojolicious::plugin::page::navigator" => "0.01"
   },
-  "VERSION" => "0.01",
+  "VERSION" => "0.02",
   "test" => {
     "TESTS" => ""
   }

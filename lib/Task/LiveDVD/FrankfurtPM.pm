@@ -5,7 +5,7 @@ package Task::LiveDVD::FrankfurtPM;
 use strict;
 use warnings;
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 q~A great start to play with Perl~;
 
@@ -19,7 +19,7 @@ Task::LiveDVD::FrankfurtPM - All these modules are installed on LiveDVDs we give
 
 =head1 VERSION
 
-version 0.01
+version 0.02
 
 =head1 MODULES REQUIRED
 
@@ -808,10 +808,6 @@ display information about the current request/response
 =item * Padre
 
 Perl Application Development and Refactoring Environment
-
-=item * Task::Padre::Plugins
-
-Get many Plugins of Padre at once
 
 =item * Rex::IO::CMDB
 
